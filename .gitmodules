@@ -1,0 +1,6 @@
+[submodule "chatx-android-app"]
+	path = chatx-android-app
+	url = https://github.com/vladpolkhovsky/chatx-android-app.git
+[submodule "chatx-ktor-server"]
+	path = chatx-ktor-server
+	url = https://github.com/vladpolkhovsky/chatx-ktor-server.git
